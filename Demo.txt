@@ -1,1 +1,16 @@
 this in my name swapnil
+
+
+i am working on java programming 
+
+let's the working on git functionality 
+topic to coverd in oops concepts 
+encapsulation 
+inheritance 
+polymorphism 
+abstraction 
+
+class
+data base
+
+updataed the topic
